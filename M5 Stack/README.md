@@ -22,9 +22,7 @@ import wifiCfg
 import time
 import imu
 
-
 setScreenColor(0x222222)
-
 
 x = None
 beschleinigung = None
@@ -36,13 +34,10 @@ lbBeschleunigung = M5TextBox(147, 81, "label0", lcd.FONT_Default, 0xFFFFFF, rota
 
 import math
 
-
 # Describe this function...
 def square(x):
   global beschleinigung
   return x * x
-
-
 
 while True:
   beschleinigung = math.sqrt(square(imu0.acceleration[0]) + square(imu0.acceleration[1]))
@@ -68,7 +63,6 @@ remoteInit()
 
 setScreenColor(0x222222)
 
-
 x = None
 beschleinigung = None
 
@@ -79,15 +73,10 @@ lbBeschleunigung = M5TextBox(147, 81, "label0", lcd.FONT_Default, 0xFFFFFF, rota
 
 import math
 
-
 # Describe this function...
 def square(x):
   global beschleinigung
   return x * x
-
-
-
-
 
 lcd.qrcode('https://flow.m5stack.com/remote?id=undefined', 72, 60, 150)
 while True:
@@ -112,13 +101,7 @@ from IoTcloud.AWS import AWS
 import wifiCfg
 import time
 
-
 setScreenColor(0x222222)
-
-
-
-
-
 
 label0 = M5TextBox(83, 106, "No Message yet", lcd.FONT_Default, 0xFFFFFF, rotate=0)
 label1 = M5TextBox(83, 67, "Message is:", lcd.FONT_Default, 0xFFFFFF, rotate=0)
@@ -128,7 +111,6 @@ def fun_m5stack_core_bla_(topic_data):
   label1.setText('Message arrived')
   label0.setText(str((str('Message is:') + str(topic_data))))
   pass
-
 
 wifiCfg.autoConnect(lcdShow=False)
 while not (wifiCfg.wlan_sta.isconnected()):
@@ -152,21 +134,13 @@ from uiflow import *
 from m5mqtt import M5mqtt
 import time
 
-
 setScreenColor(0x222222)
-
-
-
-
-
-
 
 def buttonA_wasPressed():
   # global params
   m5mqtt.publish(str('bntApressed'), str(''), 0)
   pass
 btnA.wasPressed(buttonA_wasPressed)
-
 
 m5mqtt = M5mqtt('M5Fire', '3.71.14.93', 1883, '', '', 300)
 m5mqtt.start()
