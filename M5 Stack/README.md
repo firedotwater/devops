@@ -102,7 +102,7 @@ while True:
 
 In thos exercise I have played around with the AWS subscription with the M5. I have created a free tier account on AWS and made the requiered adjustment and settings.
 
-Here is the needed code
+Here is the needed code:
 
 ```
 from m5stack import *
@@ -138,5 +138,40 @@ aws.subscribe(str('m5stack/core/bla'), fun_m5stack_core_bla_)
 aws.start()
 ```
 
+### Exercise Nr. 4
+
+This exercise continues from the exercise 3 and goes on with the AWS service.
 
 
+Here is the code
+
+```
+from m5stack import *
+from m5ui import *
+from uiflow import *
+from m5mqtt import M5mqtt
+import time
+
+
+setScreenColor(0x222222)
+
+
+
+
+
+
+
+def buttonA_wasPressed():
+  # global params
+  m5mqtt.publish(str('bntApressed'), str(''), 0)
+  pass
+btnA.wasPressed(buttonA_wasPressed)
+
+
+m5mqtt = M5mqtt('M5Fire', '3.71.14.93', 1883, '', '', 300)
+m5mqtt.start()
+while True:
+  wait(4)
+  m5mqtt.publish(str('M5Output'), str('Hello World'), 0)
+  wait_ms(2)
+```
