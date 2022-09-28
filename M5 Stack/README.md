@@ -54,7 +54,7 @@ while True:
 
 ### Exercise Nr. 2
 
-The second Exercise was something similiar like the previous one. I had to work with the accelleration and beschleinigung. 
+The second Exercise was something similiar like the previous one. I had to work with the accelleration and beschleinigung:
 
 ```
 from m5stack import *
