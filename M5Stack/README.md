@@ -2,7 +2,7 @@
 
 Here are some of the different Exercises from the M5 Stack.
 
-## Exercise's
+## Exercises
 
 ### Exercise Nr. 0
 
