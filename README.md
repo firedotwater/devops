@@ -6,7 +6,7 @@ Till now we have discussed these topics
 -   TryHackMe
 -   Cisco Packettrace
 -   -   Basic Networking knowgled
--   [M5Stack](/devops/m5stack)
+-   [M5Stack](m5stack)
 -   Linux Essentials
 -   Vagrant / Virtualbox
 -   Dristibuted Version Control (GIT)
