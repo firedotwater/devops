@@ -11,7 +11,7 @@ In the first Exercise we had to get along with the M5Stack itself. We had to "co
 
 ### Exercise Nr. 1
 
-In this exercises we had to do these things
+In this exercises we had to do these things with the acceleration from the M5 Stack:
 
 ```
 from m5stack import *
@@ -48,6 +48,52 @@ while True:
   beschleinigung = math.sqrt(square(imu0.acceleration[0]) + square(imu0.acceleration[1]))
   lbBeschleunigung.setText(str(beschleinigung))
   ezdata.setData('WzkpqZwmeXUfMDYqDNHPs6Zy6Hohwmne', 'accelleration', beschleinigung)
+  wait(1)
+  wait_ms(2)
+```
+
+### Exercise Nr. 2
+
+The second Exercise was something similiar like the previous one. I had to work with the accelleration and beschleinigung. 
+
+```
+from m5stack import *
+from m5ui import *
+from uiflow import *
+from flow import ezdata
+import wifiCfg
+import time
+import imu
+remoteInit()
+
+setScreenColor(0x222222)
+
+
+x = None
+beschleinigung = None
+
+wifiCfg.autoConnect(lcdShow=False)
+imu0 = imu.IMU()
+
+lbBeschleunigung = M5TextBox(147, 81, "label0", lcd.FONT_Default, 0xFFFFFF, rotate=0)
+
+import math
+
+
+# Describe this function...
+def square(x):
+  global beschleinigung
+  return x * x
+
+
+
+
+
+lcd.qrcode('https://flow.m5stack.com/remote?id=undefined', 72, 60, 150)
+while True:
+  beschleinigung = math.sqrt(square(imu0.acceleration[0]) + square(imu0.acceleration[1]) + square(imu0.acceleration[2]))
+  lbBeschleunigung.setText(str(beschleinigung))
+  ezdata.addToList('WzkpqZwmeXUfMDYqDNHPs6Zy6Hohwmne', 'beschleunigung', ({'timestamp':(ezdata.getCurrentISODateTime()),'acceleration':beschleinigung}))
   wait(1)
   wait_ms(2)
 ```
