@@ -4,7 +4,6 @@ In this task we should run a vagrant file with the nginx webserver and port forw
 We had to use a provision file to update, upgrade and install the service.
 
 
-
 ## Vagrant file
 
 
