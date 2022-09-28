@@ -17,7 +17,6 @@ Vagrant.configure("2") do |config|
   config.vm.network "forwarded_port", guest: 80, host: 8080, id: "nginx-cnt"
 ```
 
-
 ## provision.sh
 
 In this provision file we specified which service and updates we want to install and we can remove the var/www link and add a new one to attach the right files.
