@@ -4,6 +4,7 @@ While the entire course at TBZ we are writing out own personal repo to settle do
 
 Till now we have discussed these topics
 -   TryHackMe
+-   -   [My Profile](https://tryhackme.com/p/firedotwater)
 -   Cisco Packettrace
 -   -   Basic Networking knowgled
 -   [M5Stack](M5Stack/README.md)
