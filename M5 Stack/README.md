@@ -97,3 +97,46 @@ while True:
   wait(1)
   wait_ms(2)
 ```
+
+### Exercise Nr. 3
+
+In thos exercise I have played around with the AWS subscription with the M5. I have created a free tier account on AWS and made the requiered adjustment and settings.
+
+Here is the needed code
+
+```
+from m5stack import *
+from m5ui import *
+from uiflow import *
+from IoTcloud.AWS import AWS
+import wifiCfg
+import time
+
+
+setScreenColor(0x222222)
+
+
+
+
+
+
+label0 = M5TextBox(83, 106, "No Message yet", lcd.FONT_Default, 0xFFFFFF, rotate=0)
+label1 = M5TextBox(83, 67, "Message is:", lcd.FONT_Default, 0xFFFFFF, rotate=0)
+
+def fun_m5stack_core_bla_(topic_data):
+  # global params
+  label1.setText('Message arrived')
+  label0.setText(str((str('Message is:') + str(topic_data))))
+  pass
+
+
+wifiCfg.autoConnect(lcdShow=False)
+while not (wifiCfg.wlan_sta.isconnected()):
+  wait(1)
+aws = AWS(things_name='m5stack_fabio', host='a1los3338lpcll-ats.iot.eu-central-1.amazonaws.com', port=8883, keepalive=60, cert_file_path="/flash/res/aws-certificate.pem.crt", private_key_path="/flash/res/aws-private.pem.key")
+aws.subscribe(str('m5stack/core/bla'), fun_m5stack_core_bla_)
+aws.start()
+```
+
+
+
