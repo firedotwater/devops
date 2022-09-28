@@ -15,6 +15,6 @@ Till now we have discussed these topics
 -   -   Basic Networking
 -   -   Advenced Networking
 -   [M5Stack](M5Stack/README.md)
--   [Vagrant / Virtualbox](vagrant-task/README.md)
+-   [Vagrant / Virtualbox](vagrant-tasks/README.md)
 -   Dristibuted Version Control (GIT)
 -   AWS Cloud
