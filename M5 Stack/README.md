@@ -11,7 +11,7 @@ In the first Exercise we had to get along with the M5Stack itself. We had to "co
 
 ### Exercise Nr. 1
 
-In this exercises we had to do this
+In this exercises we had to do these things
 
 ```
 from m5stack import *
