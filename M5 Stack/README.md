@@ -3,10 +3,12 @@
 Here are some of the different Exercises from the M5 Stack.
 
 ## Exercise's
+
 ### Exercise Nr. 0
 
 
 In the first Exercise we had to get along with the M5Stack itself. We had to "configure" the M5 and add the API key from the M5 to the online enviroment. After adding the key we could start to play around with the enviroment itself and the M5.
+
 
 
 ### Exercise Nr. 1
