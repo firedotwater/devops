@@ -1,5 +1,5 @@
 # Vagrant
 
 
-- [Vagrant -nginx](nginx.md)
-- [Vagrant -mqtt](mqtt.md)
+- [nginx](nginx.md)
+- [mqtt](mqtt.md)
