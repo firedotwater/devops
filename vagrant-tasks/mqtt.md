@@ -4,9 +4,9 @@ After being the first in my class, ahead of everyone else, I was able to look at
 
 ## How to install and setup? :floppy_disk:
 1. Make sure to have a new cleand EC2 instance. Type doesn't matter, I used the t2.micro
-    1.1 Make sure to have an own security group which allows the necesarry port to connect to our instance. Open port: 1883.
-2. Update and install the latest updates
-3. Install the MQTT server
+2. Also make sure to have an own security group which allows the necesarry port to connect to our instance. Open port: 1883.
+3. Update and install the latest updates
+4. Install the MQTT server
 
 
 Following the changes made above, we must make some changes in the MQTT's config file directory. We need to specify that we want anonymous connections to get the messages to the M5Stack.
