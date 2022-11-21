@@ -1,6 +1,6 @@
 # DevOps CloudNativ Documentation
 
-<img src='https://www.canva.com/design/DAFSm8Lbsy4/view' alt="banner"></img>
+<img src='img/banner.png' alt="banner"></img>
 
 While the entire course at TBZ we are writing out own personal repo to settle down what we have learned and what was new.
 
