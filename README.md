@@ -4,26 +4,17 @@
 
 
 ## About the course :writing_hand:
-Hey there! I'm Fabio, the one and only. Mostly, we're forming relationships with AWS and learning how it works. Secondly, we can contribute to the AWS Academy Cloud Foundations. This kind of course would prepare us for the AWS Certified Cloud Practitioner exam. We are also doing some nice things with the TryHackMe [My Profile](https://tryhackme.com/p/firedotwater) environment.
+Hey there! I'm Fabio, the one and only. Mostly, we're forming relationships with AWS and learning how it works. Secondly, we can contribute to the AWS Academy Cloud Foundations. This kind of course would prepare us for the AWS Certified Cloud Practitioner exam. We are also doing some nice things with the [TryHackMe](https://tryhackme.com/p/firedotwater) environment.
 
 ## Why this repo? :computer:
-We are using the repo like as an daily journal, what we exactly did and what we got and what we didn't understood. It's in other words a journal of our process. :D
+We are using the repo like as an daily journal, what we exactly did and what we got and what we didn't understood. It is in other words, a journal of our process. :stuck_out_tongue_winking_eye:
 
+## Check out my progress
+All of the topics covered are listed here.
 
-
-Till now we have discussed these topics
--   TryHackMe
--   -   
--   -    Earned Badges
-    -   -   Linux Essentials
-    -   -   Windows Essentils
-    -   -   Overpass
-    -   -   Metasploit
-    -   -   Blue
--   Cisco Packettracer
--   -   Basic Networking
--   -   Advenced Networking
--   [M5Stack](M5Stack/README.md)
--   [Vagrant / Virtualbox](vagrant-tasks/README.md)
--   Dristibuted Version Control (GIT)
--   AWS Cloud
+-   [Cisco Packettracer](ciscopac/README.md) :white_check_mark:
+-   [Linux Foundations](unix/README.md) :white_check_mark:
+-   [git Foundations](unix/README.md) :white_check_mark:
+-   [TryHackMe](https://tryhackme.com/p/firedotwater) :ballot_box_with_check:
+-   [M5Stack](M5Stack/README.md) :white_check_mark:
+-   [Vagrant / Virtualbox](vagrant-tasks/README.md) :ballot_box_with_check:
