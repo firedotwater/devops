@@ -5,12 +5,12 @@ While the entire course at TBZ we are writing out own personal repo to settle do
 Till now we have discussed these topics
 -   TryHackMe
 -   -   [My Profile](https://tryhackme.com/p/firedotwater)
--   Earned Badges
--   -   Linux Essentials
--   -   Windows Essentils
--   -   Overpass
--   -   Metasploit
--   -   Blue
+-   -    Earned Badges
+    -   -   Linux Essentials
+    -   -   Windows Essentils
+    -   -   Overpass
+    -   -   Metasploit
+    -   -   Blue
 -   Cisco Packettracer
 -   -   Basic Networking
 -   -   Advenced Networking
