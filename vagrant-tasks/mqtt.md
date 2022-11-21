@@ -436,3 +436,5 @@ This is the entire log from the MQTT after getting messages from the M5Stack.
 1669063965: mosquitto version 2.0.11 running
 1669065765: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
 ```
+
+I know, I wasted your time :joy:
