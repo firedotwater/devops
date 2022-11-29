@@ -1,8 +1,10 @@
-# M5 Stack
+# What the quark is M5-Stack? :question:
 
-Here are some of the different Exercises from the M5 Stack.
+The [M5-Stack](https://m5stack.com) is a fancy and nice IoT Developer Module, with an ESP32 core processore. It contains a lot of compatible modules and several units. And the best part is, it is mostly everythin open source. It has apparantly a **huge** community which will help you out.
 
-## Exercises
+## Our exercises :muscle:
+
+We have got our own exercises from Armin and Marcello. 
 
 ### Exercise Nr. 0
 
