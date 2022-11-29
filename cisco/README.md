@@ -22,5 +22,16 @@ To be honest, I never liked Cisco's PacketTracer because it still has the same u
 
 ## Our exercises :school_satchel:
 
-Here we will have some exercieses regarding CPT.
+Here we will have some exercieses regarding CPT
 
+
+### Exercise 6 (Niveau 3 - Expert Skills :sunglasses:)
+
+This was a very simple exercise which was about getting along with the CPT Command Line and some other sub-tasks.
+
+-   Getting along with Command Line :white_check_mark:
+-   Name all servers and routers with their IP address / CIDR :white_check_mark:
+-   Fill out the routing table for all routers :white_check_mark:
+-   Find out how the DHCP works in this scenario :white_check_mark:
+
+All solutions details are written down and ready to show. 
