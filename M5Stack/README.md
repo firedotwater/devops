@@ -1,4 +1,4 @@
-# What the quark is M5-Stack? :question:
+# What the quark is M5-Stack :question:
 
 The [M5-Stack](https://m5stack.com) is a fancy and nice IoT Developer Module, with an ESP32 core processore. It contains a lot of compatible modules and several units. And the best part is, it is mostly everythin open source. It has apparantly a **huge** community which will help you out.
 
