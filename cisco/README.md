@@ -34,4 +34,18 @@ This was a very simple exercise which was about getting along with the CPT Comma
 -   Fill out the routing table for all routers :white_check_mark:
 -   Find out how the DHCP works in this scenario :white_check_mark:
 
-All solutions details are written down and ready to show. 
+
+### Exercise 7 (Niveau 3 - Expert Skills :yum:)
+
+This exercise was more difficult but still very doable to do. It was more of an process of elimination, fist go to the first notebook and try the ping. If this is not working try it on the second notebook and see the result. So forth and on.. 
+
+I tried these short explained steps to figure out where the issue was located:
+
+-   Ping on site from client, didn't worked - timeout
+-   Ping the router, didn't also worked - timeout
+-   Listen to trace to client, hops to the first router
+-   Listen to trace from server to client, did work
+
+After this I tried to look more into the routing between client and router and after a detailed look I saw there was an entry with an address which was pointing to a non existing address. 
+
+The wrong entry was deleted and then it worked!
