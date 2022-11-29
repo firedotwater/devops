@@ -1,6 +1,6 @@
 # Cisco Packettrace, Cisco Packettracer or is it Cisco Packet Tracer :question:
 
-<img src='../img/cisco.jpg' alt="banner"></img>
+<img src='../img/cisco.png' alt="banner"></img>
 
 
 This is the real question all of them.
