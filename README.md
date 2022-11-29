@@ -12,9 +12,9 @@ We are using the repo like as an daily journal, what we exactly did and what we 
 ## Check out my progress
 All of the topics covered are listed here.
 
--   [Cisco Packettracer](cisco/README.md) :white_check_mark:
--   [Linux Foundations](unix/README.md) :white_check_mark:
--   [git Foundations](unix/README.md) :white_check_mark:
+-   [Cisco Packettracer](cisco/README.md) :white_check_mark: (still updating)
+-   [Linux Foundations](unix/README.md) :white_check_mark: (still updating)
+-   [git Foundations](unix/README.md) :white_check_mark: (still updating)
 -   [TryHackMe](https://tryhackme.com/p/firedotwater) :ballot_box_with_check:
 -   [M5Stack](M5Stack/README.md) :white_check_mark:
--   [Vagrant / Virtualbox](vagrant-tasks/README.md) :ballot_box_with_check:
+-   [Vagrant / Virtualbox](vagrant-tasks/README.md) :ballot_box_with_check: (still updating)
