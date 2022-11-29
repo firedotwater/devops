@@ -17,4 +17,4 @@ CPT is an excellent piece of software for both experienced and inexperienced net
 
 ## Do I actually use it :sleeping: ?
 
-Well to be honest I never did actually liked Cisco the Packettracer because it has still the same Ui from +10 years ago. And that's why I never used it on purpes. But after I got mature I learned, I should not look only on the outside look. Now I still dont't like but it haves very nice tools to investigate for network troubles. But also to be honest it can be very quickly **heavly** complicated and complex. 
+To be honest, I never liked Cisco's PacketTracer because it still has the same user interface as it did ten years ago. And that's why I never used it on purpose. But as I grew older, I realized that I shouldn't focus solely on the outside. Now I still don't like it, but it has very nice tools to investigate network troubles. But, to be honest, it can quickly become **very** complicated and complex.
