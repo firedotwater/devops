@@ -136,6 +136,4 @@ This exercise is similar to the previous one; the only difference is that we are
 | Last IP:    109.38.31.2 /30                               	|                    	|                 	|
 | Broadcast:  109.38.31.3 /30                              	    |                    	|                 	|
 
-
-
 </details>
