@@ -47,5 +47,26 @@ I tried these short explained steps to figure out where the issue was located:
 
 After this I tried to look more into the routing between client and router and after a detailed look I saw there was an entry with an address which was pointing to a non existing address. 
 
-The wrong entry was deleted and then it worked!
+The wrong route entry was deleted and then it worked!
+
+
+### Exercise 8 (Niveau 3 - Expert Skills :smiling_imp:)
+
+This exercise was actually again a easy one because the main focus was on dealing with dynamic routing.
+First things first, this is the network what we should build and get all informations from the network and every device
+
+<img src='../img/cisco_e8.png' alt="banner"></img>
+
+## Abteilung Einkauf PC11
+
+| IP Address / Network                                        	| 171 	| 53 	| 16 	| 38 	|
+|-------------------------------------------------------------	|-----	|----	|----	|----	|
+| Address:    171.53.16.36 /28<br>Netmaks:    255.255.255.240 	|     	|    	|    	|    	|
+|                                                             	|     	|    	|    	|    	|
+| Network-ID: 171.53.16.32 /28                                	|     	|    	|    	|    	|
+| 1st. IP:    171.53.16.33 /28                                	|     	|    	|    	|    	|
+| Last IP:    171.53.16.46 /28                                	|     	|    	|    	|    	|
+| Broadcast:  171.53.16.47 /28                                	|     	|    	|    	|    	|
+
+
 </details>
