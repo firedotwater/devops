@@ -31,5 +31,5 @@ The solution to the exercise is located here.
 With this exercise, we will do some calculations to determine the correct subnetting for the specific network.
 The solution to the exercise is located here.
 
-[Exercise 3](exercises/subnettin_e3.xlsx) :white_check_mark:
+[Exercise 3](exercises/subnetting_e3.pdf) :white_check_mark:
 </details>
