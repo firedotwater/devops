@@ -20,11 +20,10 @@ CPT is an excellent piece of software for both experienced and inexperienced net
 To be honest, I never liked Cisco's PacketTracer because it still has the same user interface as it did ten years ago. And that's why I never used it on purpose. But as I grew older, I realized that I shouldn't focus solely on the outside. Now I still don't like it, but it has very nice tools to investigate network troubles. But, to be honest, it can quickly become **very** complicated and complex.
 
 
-## Our exercises :school_satchel:
-
+<details>
+<summary>Our exercises :school_satchel:</summary>
 Here we will have some exercieses regarding CPT
-
-
+ 
 ### Exercise 6 (Niveau 3 - Expert Skills :sunglasses:)
 
 This was a very simple exercise which was about getting along with the CPT Command Line and some other sub-tasks.
@@ -49,12 +48,4 @@ I tried these short explained steps to figure out where the issue was located:
 After this I tried to look more into the routing between client and router and after a detailed look I saw there was an entry with an address which was pointing to a non existing address. 
 
 The wrong entry was deleted and then it worked!
-
-
-<details>
-<summary>Header-Like Text</summary>
-Collapsible section introduction text
- 
-## Additional Content (heading)
-More context about this section
 </details>
