@@ -16,5 +16,5 @@ All of the topics covered are listed here.
 -   [Linux Foundations](unix/README.md) :white_check_mark: (still updating)
 -   [git Foundations](unix/README.md) :white_check_mark: (still updating)
 -   [TryHackMe](https://tryhackme.com/p/firedotwater) :ballot_box_with_check:
--   [M5Stack](m5Stack/README.md) :white_check_mark:
+-   [M5Stack](m5stack/README.md) :white_check_mark:
 -   [Vagrant / Virtualbox](vagrant-tasks/README.md) :ballot_box_with_check: (still updating)
