@@ -34,7 +34,8 @@ This was a very simple exercise which was about getting along with the CPT Comma
 -   Find out how the DHCP works in this scenario :white_check_mark:
 </details>
 
-### Exercise 7 (Niveau 3 - Expert Skills :yum:)
+<details>
+<summary>Exercise 7 (Niveau 3 - Expert Skills :yum:)</summary>
 
 This exercise was more difficult but still very doable to do. It was more of an process of elimination, fist go to the first notebook and try the ping. If this is not working try it on the second notebook and see the result. So forth and on.. 
 
@@ -48,9 +49,10 @@ I tried these short explained steps to figure out where the issue was located:
 After this I tried to look more into the routing between client and router and after a detailed look I saw there was an entry with an address which was pointing to a non existing address. 
 
 The wrong route entry was deleted and then it worked!
+</details>
 
-
-### Exercise 8 (Niveau 3 - Expert Skills :smiling_imp:)
+<details>
+<summary>Exercise 8 (Niveau 3 - Expert Skills :smiling_imp:)</summary>
 
 This exercise was actually again a easy one because the main focus was on dealing with dynamic routing.
 First things first, this is the network what we should build and get all informations from the network and every device
@@ -103,3 +105,5 @@ First things first, this is the network what we should build and get all informa
 | 1st. IP:    113.25.0.1 /23                                	|                    	|                 	|
 | Last IP:    113.25.1.254 /23                                	|                    	|                 	|
 | Broadcast:  113.25.1.255 /23                               	|                    	|                 	|
+
+</details>
