@@ -12,7 +12,7 @@ We are using the repo like as an daily journal, what we exactly did and what we 
 ## Check out my progress
 All of the topics covered are listed here.
 
--   [Cisco Packettracer](cisco/README.md) :white_check_mark: (still updating)
+-   [Cisco Packettracer](networking/README.md) :white_check_mark: (still updating)
 -   [Linux Foundations](unix/README.md) :white_check_mark: (still updating)
 -   [git Foundations](unix/README.md) :white_check_mark: (still updating)
 -   [TryHackMe](https://tryhackme.com/p/firedotwater) :ballot_box_with_check:
