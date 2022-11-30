@@ -19,12 +19,12 @@ CPT is an excellent piece of software for both experienced and inexperienced net
 
 To be honest, I never liked Cisco's PacketTracer because it still has the same user interface as it did ten years ago. And that's why I never used it on purpose. But as I grew older, I realized that I shouldn't focus solely on the outside. Now I still don't like it, but it has very nice tools to investigate network troubles. But, to be honest, it can quickly become **very** complicated and complex.
 
+## Our exercises :school_satchel:
+Here we will have some exercieses regarding CPT
+
 
 <details>
-<summary>Our exercises :school_satchel:</summary>
-Here we will have some exercieses regarding CPT
- 
-### Exercise 6 (Niveau 3 - Expert Skills :sunglasses:)
+<summary>Exercise 6 (Niveau 3 - Expert Skills :sunglasses:)</summary>
 
 This was a very simple exercise which was about getting along with the CPT Command Line and some other sub-tasks.
 
@@ -32,7 +32,7 @@ This was a very simple exercise which was about getting along with the CPT Comma
 -   Name all servers and routers with their IP address / CIDR :white_check_mark:
 -   Fill out the routing table for all routers :white_check_mark:
 -   Find out how the DHCP works in this scenario :white_check_mark:
-
+</details>
 
 ### Exercise 7 (Niveau 3 - Expert Skills :yum:)
 
@@ -103,5 +103,3 @@ First things first, this is the network what we should build and get all informa
 | 1st. IP:    113.25.0.1 /23                                	|                    	|                 	|
 | Last IP:    113.25.1.254 /23                                	|                    	|                 	|
 | Broadcast:  113.25.1.255 /23                               	|                    	|                 	|
-
-</details>
