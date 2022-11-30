@@ -53,7 +53,7 @@ The wrong route entry was deleted and then it worked!
 
 <details>
 <summary>Exercise 8 (Niveau 3 - Expert Skills :smiling_imp:)</summary>
-
+<br>
 This exercise was actually an easy one because the main focus was on dealing with dynamic routing.
 First things first, this is the network we should build and use to get all the information from the network and every device. This practical exercise should teach us to plan and document all of the minor details of our network. Only in this manner are we fully aware of what is happening. 
 
