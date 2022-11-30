@@ -49,3 +49,12 @@ I tried these short explained steps to figure out where the issue was located:
 After this I tried to look more into the routing between client and router and after a detailed look I saw there was an entry with an address which was pointing to a non existing address. 
 
 The wrong entry was deleted and then it worked!
+
+
+<details>
+<summary>Header-Like Text</summary>
+Collapsible section introduction text
+ 
+## Additional Content (heading)
+More context about this section
+</details>
