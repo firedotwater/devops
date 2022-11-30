@@ -12,6 +12,8 @@ We are using the repo like as an daily journal, what we exactly did and what we 
 ## Check out my progress
 All of the topics covered are listed here.
 
+-   [Filius](networking/filius.md) :white_check_mark: (still updating)
+-   [Subnetting Advanced Skills](networking/subnetting.md) :white_check_mark: (still updating)
 -   [Cisco Packettracer](networking/README.md) :white_check_mark:
 -   [Linux Foundations](unix/README.md) :white_check_mark: (still updating)
 -   [git Foundations](unix/README.md) :white_check_mark: (still updating)
