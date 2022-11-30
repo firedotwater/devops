@@ -11,4 +11,7 @@ Here we will have some exercieses regarding Network Subnetting
 <summary>Exercise 1 (Niveau 2 - Advanced Skills :metal:)</summary>
 <br>
 With this exercise, we will do some calculations to determine the correct subnetting for the specific network.
-The solution to the exercise is [located](exercises/subnettin_e1.xlsx) here.
+The solution to the exercise is located here.
+
+[Exercise 1](exercises/subnettin_e1.xlsx) :white_check_mark:
+</details>
