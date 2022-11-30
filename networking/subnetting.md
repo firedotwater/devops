@@ -15,3 +15,12 @@ The solution to the exercise is located here.
 
 [Exercise 1](exercises/subnettin_e1.xlsx) :white_check_mark:
 </details>
+
+<details>
+<summary>Exercise 2 (Niveau 2 - Advanced Skills :metal:)</summary>
+<br>
+With this exercise, we will do some calculations to determine the correct subnetting for the specific network.
+The solution to the exercise is located here.
+
+[Exercise 2](exercises/subnettin_e1.xlsx) :white_check_mark:
+</details>
