@@ -113,7 +113,7 @@ First things first, this is the network we should build and use to get all the i
 <br>
 This exercise is similar to the previous one; the only difference is that we are dealing here with static routing. Same environment, same devices.
 
-## Router0 I1 109.38.31.1 /30
+## Router0 i1 109.38.31.1 /30
 
 | IP Address / Network                                        	| Number of Hostbits 	| Number of Hosts 	|
 |-------------------------------------------------------------	|--------------------	|-----------------	|
@@ -125,7 +125,7 @@ This exercise is similar to the previous one; the only difference is that we are
 | Broadcast:  109.38.31.3 /30                              	    |                    	|                 	|
 
 
-## Router1 I1 109.38.31.2 /30
+## Router1 i1 109.38.31.2 /30
 
 | IP Address / Network                                        	| Number of Hostbits 	| Number of Hosts 	|
 |-------------------------------------------------------------	|--------------------	|-----------------	|
