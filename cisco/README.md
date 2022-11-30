@@ -57,16 +57,51 @@ First things first, this is the network what we should build and get all informa
 
 <img src='../img/cisco_e8.png' alt="banner"></img>
 
-## Abteilung Einkauf PC11
+## Purchasing Department PC11: 171.53.16.36 /28
 
-| IP Address / Network                                        	
-|-------------------------------------------------------------	|
-| Address:    171.53.16.36 /28<br>Netmaks:    255.255.255.240 	|
-|                                                             	|
-| Network-ID: 171.53.16.32 /28                                	|
-| 1st. IP:    171.53.16.33 /28                                	|
-| Last IP:    171.53.16.46 /28                                	|
-| Broadcast:  171.53.16.47 /28                                	|
+| IP Address / Network                                        	| Number of Hostbits 	| Number of Hosts 	|
+|-------------------------------------------------------------	|--------------------	|-----------------	|
+| Address:    171.53.16.36 /28<br>Netmaks:    255.255.255.240 	|          4         	|        14       	|
+|                                                             	|                    	|                 	|
+| Network-ID: 171.53.16.32 /28                                	|                    	|                 	|
+| 1st. IP:    171.53.16.33 /28                                	|                    	|                 	|
+| Last IP:    171.53.16.46 /28                                	|                    	|                 	|
+| Broadcast:  171.53.16.47 /28                                	|                    	|                 	|
 
+
+## Purchasing Department PC12: 171.53.16.45 /28
+
+| IP Address / Network                                        	| Number of Hostbits 	| Number of Hosts 	|
+|-------------------------------------------------------------	|--------------------	|-----------------	|
+| Address:    171.53.16.36 /28<br>Netmaks:    255.255.255.240 	|          4         	|        14       	|
+|                                                             	|                    	|                 	|
+| Network-ID: 171.53.16.32 /28                                	|                    	|                 	|
+| 1st. IP:    171.53.16.33 /28                                	|                    	|                 	|
+| Last IP:    171.53.16.46 /28                                	|                    	|                 	|
+| Broadcast:  171.53.16.47 /28                                	|                    	|                 	|
+
+
+## Logistics Department PC51: 113.25.0.68 /23
+
+| IP Address / Network                                        	| Number of Hostbits 	| Number of Hosts 	|
+|-------------------------------------------------------------	|--------------------	|-----------------	|
+| Address:    113.25.0.68 /23<br>Netmaks:    255.255.255.240 	|          9         	|        510       	|
+|                                                             	|                    	|                 	|
+| Network-ID: 113.25.0.0 /23                                	|                    	|                 	|
+| 1st. IP:    113.25.0.1 /23                                	|                    	|                 	|
+| Last IP:    113.25.1.254 /23                                	|                    	|                 	|
+| Broadcast:  113.25.1.255 /23                               	|                    	|                 	|
+
+
+## Logistics Department PC51: 113.25.0.68 /23
+
+| IP Address / Network                                        	| Number of Hostbits 	| Number of Hosts 	|
+|-------------------------------------------------------------	|--------------------	|-----------------	|
+| Address:    113.25.0.68 /23<br>Netmaks:    255.255.255.240 	|          9         	|        510       	|
+|                                                             	|                    	|                 	|
+| Network-ID: 113.25.0.0 /23                                	|                    	|                 	|
+| 1st. IP:    113.25.0.1 /23                                	|                    	|                 	|
+| Last IP:    113.25.1.254 /23                                	|                    	|                 	|
+| Broadcast:  113.25.1.255 /23                               	|                    	|                 	|
 
 </details>
