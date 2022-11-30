@@ -25,7 +25,7 @@ Here we will have some exercieses regarding CPT
 
 <details>
 <summary>Exercise 6 (Niveau 3 - Expert Skills :sunglasses:)</summary>
-
+<br>
 This was a very simple exercise which was about getting along with the CPT Command Line and some other sub-tasks.
 
 -   Getting along with Command Line :white_check_mark:
@@ -36,7 +36,7 @@ This was a very simple exercise which was about getting along with the CPT Comma
 
 <details>
 <summary>Exercise 7 (Niveau 3 - Expert Skills :yum:)</summary>
-
+<br>
 This exercise was more difficult but still very doable to do. It was more of an process of elimination, fist go to the first notebook and try the ping. If this is not working try it on the second notebook and see the result. So forth and on.. 
 
 I tried these short explained steps to figure out where the issue was located:
@@ -95,7 +95,7 @@ First things first, this is the network we should build and use to get all the i
 | Broadcast:  113.25.1.255 /23                               	|                    	|                 	|
 
 
-## Logistics Department PC51: 113.25.0.68 /23
+## Logistics Department PC52: 113.25.1.164 /23
 
 | IP Address / Network                                        	| Number of Hostbits 	| Number of Hosts 	|
 |-------------------------------------------------------------	|--------------------	|-----------------	|
@@ -105,5 +105,37 @@ First things first, this is the network we should build and use to get all the i
 | 1st. IP:    113.25.0.1 /23                                	|                    	|                 	|
 | Last IP:    113.25.1.254 /23                                	|                    	|                 	|
 | Broadcast:  113.25.1.255 /23                               	|                    	|                 	|
+
+</details>
+
+<details>
+<summary>Exercise 9 (Niveau 3 - Expert Skills :laughing:)</summary>
+<br>
+This exercise is similar to the previous one; the only difference is that we are dealing here with static routing. Same environment, same devices.
+
+## Router0 I1 109.38.31.1 /30
+
+| IP Address / Network                                        	| Number of Hostbits 	| Number of Hosts 	|
+|-------------------------------------------------------------	|--------------------	|-----------------	|
+| Address:    109.38.31.1 /30<br>Netmaks:    255.255.255.252 	|          2         	|        2       	|
+|                                                             	|                    	|                 	|
+| Network-ID: 109.38.31.0 /30                                	|                    	|                 	|
+| 1st. IP:    109.38.31.1 /30                               	|                    	|                 	|
+| Last IP:    109.38.31.2 /30                               	|                    	|                 	|
+| Broadcast:  109.38.31.3 /30                              	    |                    	|                 	|
+
+
+## Router1 I1 109.38.31.2 /30
+
+| IP Address / Network                                        	| Number of Hostbits 	| Number of Hosts 	|
+|-------------------------------------------------------------	|--------------------	|-----------------	|
+| Address:    109.38.31.2 /30<br>Netmaks:    255.255.255.252 	|          2         	|        2       	|
+|                                                             	|                    	|                 	|
+| Network-ID: 109.38.31.0 /30                                	|                    	|                 	|
+| 1st. IP:    109.38.31.1 /30                               	|                    	|                 	|
+| Last IP:    109.38.31.2 /30                               	|                    	|                 	|
+| Broadcast:  109.38.31.3 /30                              	    |                    	|                 	|
+
+
 
 </details>
