@@ -9,7 +9,7 @@ I still remember in 2015, when I was a student in Marcello's class, when he intr
 Here we will have some exercieses regarding Filius
 
 <details>
-<summary>Exercise 1 (Niveau 1 - Basic Skills ::metal:)</summary>
+<summary>Exercise 1 (Niveau 1 - Basic Skills :metal:)</summary>
 <br>
 We just basically received a PDF with some environmental information, and then we should answer the questions.
 The PDF file with the answers is attached.
