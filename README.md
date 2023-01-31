@@ -1,4 +1,4 @@
-# DevOps CloudNativ Documentation
+# Cloud-native, DevOps & Container
 
 <img src='img/banner.png' alt="banner"></img>
 
